@@ -58,12 +58,6 @@ My journey reflects a commitment to excellence, client satisfaction, and continu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=decavalcantes)](https://github.com/decavalcantes/github-readme-stats)
 
----
-
-#### ✍ Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <!--
 **DeCavalcantes/decavalcantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
